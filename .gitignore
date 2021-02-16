@@ -3,7 +3,3 @@ images/
 certs/
 html/
 vhostd/
-images/*.jpg
-images/*.png
-images/*/*.jpg
-images/*/*.png
